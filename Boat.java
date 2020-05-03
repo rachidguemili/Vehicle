@@ -6,6 +6,10 @@ public class Boat extends Vehicle{
 
   }
 
+   // ici on override une methode de la superclasse
+    //   @Override
+        @Override
+      
     public  String doStuff(){
 
         return "I am " +  this.brand + " and I do  Glou Glou ! ";

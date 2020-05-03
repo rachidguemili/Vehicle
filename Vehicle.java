@@ -1,4 +1,4 @@
-public class Vehicle{
+public class abstract Vehicle{
 
 
 
@@ -27,7 +27,7 @@ public class Vehicle{
     }
 
 
-     public  String doStuff(){
+     public abstract String doStuff(){
 
 
         return "";
